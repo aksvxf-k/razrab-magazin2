@@ -1,0 +1,9 @@
+2026-09-28T13:01:58+00:00 INFO Email "admin_payment_gateway_enabled" sent CONTEXT: {"email_type":"admin_payment_gateway_enabled","status":"sent","recipient":"aliska","WC_Gateway_COD":null}
+2026-09-28T13:01:58+00:00 INFO Email "admin_payment_gateway_enabled" sent CONTEXT: {"email_type":"admin_payment_gateway_enabled","status":"sent","recipient":"aliska","WC_Gateway_Cheque":null}
+2026-09-28T13:01:58+00:00 INFO Email "admin_payment_gateway_enabled" sent CONTEXT: {"email_type":"admin_payment_gateway_enabled","status":"sent","recipient":"aliska","WC_Gateway_BACS":null}
+2026-09-28T13:03:52+00:00 INFO Email "new_order" for order #36 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"aliska","order":36}
+2026-09-28T13:03:52+00:00 INFO Email "customer_processing_order" for order #36 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"aliska","order":36}
+2026-09-28T13:11:50+00:00 INFO Email "new_order" for order #40 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"aliska","order":40}
+2026-09-28T13:11:50+00:00 INFO Email "customer_processing_order" for order #40 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"aliska","order":40}
+2026-09-28T13:30:11+00:00 INFO Email "new_order" for order #41 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"aliska","order":41}
+2026-09-28T13:30:11+00:00 INFO Email "customer_on_hold_order" for order #41 sent CONTEXT: {"email_type":"customer_on_hold_order","status":"sent","recipient":"aliska","order":41}
